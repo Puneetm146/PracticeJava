@@ -21,7 +21,7 @@ public class PrimeCheck {
         }
 
         if (flag == 0) {
-            System.out.println("Yes you can do it");
+            System.out.println("Yes");
         }
 
     }
