@@ -1,4 +1,4 @@
-package CIPDA1;// Java Hello World Program
+package CIPDA1.LoopsFunctions;// Java Hello World Program
 
 public class FirstJavaClass {
     public static String name = "Variable Declaration";

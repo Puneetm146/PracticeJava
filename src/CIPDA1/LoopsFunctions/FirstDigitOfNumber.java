@@ -1,4 +1,4 @@
-package CIPDA1;
+package CIPDA1.LoopsFunctions;
 
 import java.util.Scanner;
 

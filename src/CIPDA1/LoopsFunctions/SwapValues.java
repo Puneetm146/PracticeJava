@@ -1,4 +1,4 @@
-package CIPDA1;
+package CIPDA1.LoopsFunctions;
 
 public class SwapValues<a> {
 

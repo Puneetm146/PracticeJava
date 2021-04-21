@@ -1,4 +1,4 @@
-package CIPDA1;// Java program to demonstrate working of Scanner in Java
+package CIPDA1.LoopsFunctions;// Java program to demonstrate working of Scanner in Java
 
 import java.util.Scanner;
 

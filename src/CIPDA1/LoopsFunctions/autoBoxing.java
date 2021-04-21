@@ -1,4 +1,4 @@
-package CIPDA1;
+package CIPDA1.LoopsFunctions;
 
 public class autoBoxing {
     public static void main(String[] args) {
